@@ -12,3 +12,5 @@ var uma;
 let dois, tres;
 
 console.log(nome,idade,comidaFavorita);
+
+//fim
