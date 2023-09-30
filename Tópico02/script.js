@@ -164,3 +164,5 @@ console.log(valor);
 //Atribua true para a variável darCredito, caso o cliente possua carro e casa e false caso o contrário
 var possuiCarro = false, possuiCasa = true;
 var darCredito = (possuiCarro && possuiCasa) ? 'DaCredito' : 'Não daCredito'; console.log(darCredito);
+
+//fim
