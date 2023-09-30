@@ -165,4 +165,4 @@ console.log(valor);
 var possuiCarro = false, possuiCasa = true;
 var darCredito = (possuiCarro && possuiCasa) ? 'DaCredito' : 'Não daCredito'; console.log(darCredito);
 
-//fim
+//fimm
