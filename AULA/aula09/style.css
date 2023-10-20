@@ -1,0 +1,21 @@
+
+
+
+.impar{
+    background-color: yellow;
+}
+
+.escuro{
+    background-color: black;
+    color: white;
+}
+/*modoClaro{
+    background-color: antiquewhite  ;
+}*/
+
+#trocaModo{
+    background-color: red;
+}
+.texto-vermelho{
+    color: red;
+}
